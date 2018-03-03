@@ -1,4 +1,4 @@
 # Intelligent-Scissor
 
-Input: seedPostion, curserPosition, img, colorFlag
-Output: connected graph, img, debug graph
+Input: seed postion, curser position, source image<br>
+Output: connected graph, amended image, debug graph
